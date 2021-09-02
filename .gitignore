@@ -133,3 +133,10 @@ dmypy.json
 
 # Unzipped data files
 *.idx
+
+# CSV data files
+*.csv
+
+# Include specific CSV files
+!companies_2005_10Q.csv
+!companies_2011_10Q.csv
