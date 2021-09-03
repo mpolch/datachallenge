@@ -142,6 +142,7 @@ dmypy.json
 !companies_2011_10Q.csv
 !companies_survived.csv
 !companies_died.csv
+!financial_data_with_survival_info.csv
 
 # Parquet data files
 *.pq
