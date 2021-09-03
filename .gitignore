@@ -140,3 +140,5 @@ dmypy.json
 # Include specific CSV files
 !companies_2005_10Q.csv
 !companies_2011_10Q.csv
+!companies_survived.csv
+!companies_died.csv
