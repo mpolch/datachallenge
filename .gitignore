@@ -146,3 +146,7 @@ dmypy.json
 
 # Parquet data files
 *.pq
+
+# r history files
+*.Rhistory
+
