@@ -6,7 +6,7 @@ Data challenge Propulsion Academy
 ### Project contributors
 - Matthias Galipaud
 - Peerawan Wiwattananon
-- Mevluet Polat
+- Mevluet Polat (mpolat@mpol.ch)
 - Anselme Borgeaud (aborgeaud@gmail.com)
 
 ### Data files
