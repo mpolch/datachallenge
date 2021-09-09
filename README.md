@@ -6,7 +6,7 @@ Data challenge Propulsion Academy
 ### Project contributors
 - Matthias Galipaud
 - Peerawan Wiwattananon
-- Mevluet Polat
+- Mevluet Polat (mpolat@mpol.ch)
 - Anselme Borgeaud (aborgeaud@gmail.com)
 
 ### Data files
@@ -16,4 +16,5 @@ Data challenge Propulsion Academy
 - [Bulk financial report data (from 2005, but data mostly from 2008) [CSV] (mevluet_data_merged.csv)](https://www.dropbox.com/s/z119lsqk57g09v4/mevluet_data_merged.csv?dl=0)
 - [current assets and liabilities data for companies since 1993 scraped from the SEC website [CSV] (scraped_companies.csv)](https://www.dropbox.com/s/pvsqovoflkmaxpg/scraped_companies.csv?dl=0)
 - [scraped_companies.csv merged with companies_fillinf_minimal.csv [CSV] (scraped_companies_merged_survival.csv)](https://www.dropbox.com/s/svk4l9qzkp9vj0u/scraped_companies_merged_survival.csv?dl=0)
+- [scraped_companies_merged_survival.csv filtered for continuous records that includes fiscal year 2005 [CSV] (scraped_companies_merged_survival_continuous_from2005.csv)](https://www.dropbox.com/s/at23ufz0ts03enf/scraped_companies_merged_survival_continuous_from2005.csv?dl=0)
 
