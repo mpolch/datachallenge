@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Pycharm
-.idea
+.idea/
 
 # Unzipped data files
 *.idx
@@ -150,3 +150,8 @@ dmypy.json
 # r history files
 *.Rhistory
 
+# Pickled binary data
+*.pickle
+
+data/
+*.json
