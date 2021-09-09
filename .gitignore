@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Pycharm
-.idea
+.idea/
 
 # Unzipped data files
 *.idx
@@ -138,10 +138,20 @@ dmypy.json
 *.csv
 
 # Include specific CSV files
-!companies_2005_10Q.csv
-!companies_2011_10Q.csv
-!companies_survived.csv
-!companies_died.csv
+#!companies_2005_10Q.csv
+#!companies_2011_10Q.csv
+#!companies_survived.csv
+#!companies_died.csv
+#!financial_data_with_survival_info.csv
 
 # Parquet data files
 *.pq
+
+# r history files
+*.Rhistory
+
+# Pickled binary data
+*.pickle
+
+data/
+*.json
