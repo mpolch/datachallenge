@@ -17,7 +17,7 @@ library(ggfortify)
 d <- read.csv("mevluet_data_merged.csv", header = T)
 summary(d)
 dim(d)
-colnames(d) ## these are all the variables we can work with
+# colnames(d) ## these are all the variables we can work with
 
 ## all company names
 comp_names <- unique(d$Company.Name)
@@ -81,6 +81,8 @@ graph_fun_scalled(d$Gross.Profit, d$Fiscal.Year, d$Sector, "gross profit")
 graph_fun(d$Treasury.Stock, d$Fiscal.Year, d$Sector, "treasury")
 graph_fun(d$Total.Assets, d$Fiscal.Year, d$Sector, "total assets")
 graph_fun_scalled(d$Total.Assets, d$Fiscal.Year, d$Sector, "total assets")
+
+graph_fun(d$Revenue[d$Sector == "Healthcare"], d$Fiscal.Year[d$Sector == "Healthcare"], d$Sector[d$Sector == "Healthcare"], "revenues")
 
 ## graphing the right wealth variables
 # liquidity ratio
