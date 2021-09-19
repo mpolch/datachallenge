@@ -1,8 +1,8 @@
 # Data Challenge 1: How to survive a financial crisis?
 Data challenge 1 at [Propulsion Academy](https://www.linkedin.com/school/propulsion-academy/?originalSubdomain=ch)
 
-[Google Slides presentation](https://docs.google.com/presentation/d/1wXfmQQvGGECkWRxRInyPSN39wJe4Ahna1tl07QzykXA/edit?usp=sharing) of this project (preliminary results)
-[Google Doc notes](https://docs.google.com/document/d/1AniEjj6gImymUvTHtJh18frXXIqXaIMA6B2j4qhAVQU/edit) for this project
+- [Google Slides presentation](https://docs.google.com/presentation/d/1wXfmQQvGGECkWRxRInyPSN39wJe4Ahna1tl07QzykXA/edit?usp=sharing) of this project (preliminary results)
+- [Google Doc notes](https://docs.google.com/document/d/1AniEjj6gImymUvTHtJh18frXXIqXaIMA6B2j4qhAVQU/edit) for this project
 
 ### Project contributors
 - Matthias Galipaud
