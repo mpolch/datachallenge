@@ -155,3 +155,6 @@ dmypy.json
 
 data/
 *.json
+
+temp folder
+to_clean/
