@@ -1,8 +1,9 @@
 # Data Challenge 1: How to survive a financial crisis?
 Data challenge 1 at [Propulsion Academy](https://www.linkedin.com/school/propulsion-academy/?originalSubdomain=ch)
 
-- [Google Slides presentation](https://docs.google.com/presentation/d/1wXfmQQvGGECkWRxRInyPSN39wJe4Ahna1tl07QzykXA/edit?usp=sharing) of this project (preliminary results)
-- [Google Doc notes](https://docs.google.com/document/d/1AniEjj6gImymUvTHtJh18frXXIqXaIMA6B2j4qhAVQU/edit) for this project
+- Web scraping of financial reports in Python and statistical analysis of companies current ratios to see if this can be used to predict the probability of surviving a financial crisis (2008 crisis).
+- [Google Slides presentation](https://docs.google.com/presentation/d/1wXfmQQvGGECkWRxRInyPSN39wJe4Ahna1tl07QzykXA/edit?usp=sharing) of this project (preliminary results).
+- [Google Doc notes/brainstorming](https://docs.google.com/document/d/1AniEjj6gImymUvTHtJh18frXXIqXaIMA6B2j4qhAVQU/edit) for this project.
 
 ### Project contributors
 - Matthias Galipaud
