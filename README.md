@@ -10,6 +10,10 @@ Data challenge 1 at [Propulsion Academy](https://www.linkedin.com/school/propuls
 - Mevluet Polat (mpolat@mpol.ch)
 - Anselme Borgeaud (aborgeaud@gmail.com)
 
+### Content
+- Python data scraping and basic analysis scripts are in the notebooks folder
+- R data analysis (incl. survival analysis) are in the R analysis folder
+
 ### Data files
 - [Companies from 2005 with their most recent SEC filling dates (6409 companies) [CSV] (companies_filling_minimal.csv)](https://www.dropbox.com/s/ukvmv87cm88iz7e/companies_filling_minimal.csv?dl=0)
 - [Stock closing price data [Parquet] (stock_closes.pq)](https://www.dropbox.com/s/uqhczpn4fxak8w9/stock_closes.pq?dl=0)
