@@ -1,4 +1,4 @@
-# Data Challenge 1: How to survive a financial crisis?
+# Data Challenge 1: Which companies has survived a financial crisis?
 Data challenge 1 at [Propulsion Academy](https://www.linkedin.com/school/propulsion-academy/?originalSubdomain=ch)
 
 - Web scraping of financial reports in Python and statistical analysis of companies current ratios to see if it can be used to predict the probability of surviving a financial crisis (2008 crisis).
